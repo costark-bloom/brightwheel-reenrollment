@@ -2,6 +2,10 @@
 
 Interactive prototype for Maria's re-enrollment command center — built for the Brightwheel take-home assignment.
 
+**Live demo:** https://costark-bloom.github.io/brightwheel-reenrollment/
+
+**Source code:** https://github.com/costark-bloom/brightwheel-reenrollment
+
 ## Quick start
 
 ```bash
